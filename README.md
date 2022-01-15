@@ -1,4 +1,4 @@
-# TurkcellCamp-Pairworks - Week2
+# TurkcellCamp-Pairworks
 
 ## Pair 3- Members  
 
