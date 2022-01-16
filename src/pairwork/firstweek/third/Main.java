@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//ilk 2 arkadaş sayı çifti || 220 ve 284
+		//ilk 2 arkadas sayi cifti || 220 ve 284
 		
 		int firstNumber = 2;
 		int firstNumberSum = 0,secondNumberSum = 0;
@@ -27,7 +27,7 @@ public class Main {
             }
             
             if(firstNumber == secondNumberSum && firstNumber != firstNumberSum && firstNumber > firstNumberSum) {
-            	System.out.println(firstNumber+"-"+firstNumberSum + " arkadaş sayıdır.");
+            	System.out.println(firstNumber+"-"+firstNumberSum + " arkadas sayidir.");
             	count ++;
             }
             if(numberOfPairs == count) {
